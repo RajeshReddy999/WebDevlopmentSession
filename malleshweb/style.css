@@ -2,5 +2,22 @@ ul{
     list-style-type: none;
 }
 body{
-    background-color: aqua;
+    background-image: url(../assets/images/RE4RttF_1920x1080.jpg);
+}
+.first{
+
+    display: inline;
+    margin: 10px;
+}
+marquee{
+    background-color: yellow;
+    padding: 15px;
+}
+footer{
+    background-color: white;
+    padding: 10px;
+}
+button{
+    background-color: aquamarine;
+
 }
