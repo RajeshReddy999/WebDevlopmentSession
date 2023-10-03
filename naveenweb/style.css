@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 500;
+}
+
+
+.navbar{
+    width: 100%;
+    margin: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.navbar ul{
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+}
+
